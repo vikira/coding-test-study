@@ -9,7 +9,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-<!-- {handle}부분에 백준 아이디 적으시면 돼요 ! -->
+<!-- 그냥 예시에요 !! 참고하시고 하셔도 되고 굳이 안하셔도 괘요 !! 자율입니다 ~~  !! -->
 
 ## **💻 문제 목록**
 
@@ -18,10 +18,10 @@
 
 | 푼 문제 수 |                           문제번호/URL                            |       제목        | 풀이                                                                                                        |
 | :--------: | :---------------------------------------------------------------: | :---------------: | ----------------------------------------------------------------------------------------------------------- |
-|     1      |           [2557](https://www.acmicpc.net/problem/2557)            | 입출력과 사칙연산 | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/soobinJung/BaekJoon/ProblemList.md)    |
-|     2      |          [10718](https://www.acmicpc.net/problem/10718)           | 입출력과 사칙연산 | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/soobinJung/BaekJoon/ProblemList.md)    |
-|     3      | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/soobinJung/Programmers/ProblemList.md) |
-|     4      |            [1](https://leetcode.com/problems/two-sum/)            |      Two Sum      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/soobinJung/LeetCode/ProblemList.md)    |
+|     1      |           [2557](https://www.acmicpc.net/problem/2557)            | 입출력과 사칙연산 | [풀이](https://github.com/SoobinJung1013/coding_test_study/tree/main/yoojinYang/BaekJoon/ProblemList.md)    |
+|     2      |          [10718](https://www.acmicpc.net/problem/10718)           | 입출력과 사칙연산 | [풀이](https://github.com/SoobinJung1013/coding_test_study/tree/main/yoojinYang/BaekJoon/ProblemList.md)    |
+|     3      | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/Programmers/ProblemList.md) |
+|     4      |            [1](https://leetcode.com/problems/two-sum/)            |      Two Sum      | [풀이](https://github.com/SoobinJung1013/coding_test_study/blob/main/yoojinYang/LeetCode/ProblemList.md)    |
 
 ---
 
