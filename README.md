@@ -25,3 +25,21 @@ Team members
   - 코딩 사이트는 자유롭게 선택 가능
   - 문제의 난이도에 따라 4문제 이상 풀 수 있음
 - 위의 조건을 지키지 못했을 경우 벌금 **2000원**
+
+# 🔎 사용방법
+
+1. 프로그램 사이트를 [셋 중에 하나](#Coding-Test-Site) 골라서 문제를 푼다.
+
+   > 참고
+
+   - [백준 난이도 순 문제 리스트](https://solved.ac/problems/level)
+   - [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges) : 여기 들어가서 level1, level2 ~ level5 선택 가능 !
+   - leetcode : [easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1), [medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1), [hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1)
+
+2. 문제 풀이를 업로드 한다.
+   > 본인 이름의 폴더 -> 문풀사이트 폴더 -> 문제번호 폴더 생성 -> 풀이 파일 업로드 !!
+3. (선택) 자신 개인 README.md에 주차별로 푼 문제를 표에 작성한다.
+   ![예시](/uploads/1848994ad25765da30fa8ef3684c67bc/problem.PNG)
+   ![예시](/uploads/1848994ad25765da30fa8ef3684c67bc/problem.PNG)
+4. 금요일 저녁에 팀원들과 함께 자신의 풀이를 공유하고, 더 좋은 풀이 없는지 함께 토론한다 ~! 💓
+5. 코테 다 합격하고 부자된다 ~ 💵 💵 💵
