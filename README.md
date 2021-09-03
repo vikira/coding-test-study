@@ -2,7 +2,11 @@
 
 # 📚 악착이들
 
-Team members : [양유진](https://github.com/SoobinJung1013/coding_test_study/tree/main/yoojinYang), [장수아](https://github.com/SoobinJung1013/coding_test_study/tree/main/sooaJang), [정수빈](https://github.com/SoobinJung1013/coding_test_study/tree/main/soobinJung)
+Team members
+
+- [양유진](https://github.com/SoobinJung1013/coding_test_study/tree/main/yoojinYang)
+- [장수아](https://github.com/SoobinJung1013/coding_test_study/tree/main/sooaJang)
+- [정수빈](https://github.com/SoobinJung1013/coding_test_study/tree/main/soobinJung)
 
 # 🖥 Coding Test Site
 
