@@ -28,7 +28,7 @@ Team members
 
 # 🔎 사용방법
 
-# 1. 프로그램 사이트를 [셋 중에 하나](#-coding-test-site) 골라서 문제를 푼다.
+## 1. 프로그램 사이트를 [셋 중에 하나](#-coding-test-site) 골라서 문제를 푼다.
 
 > 참고
 
@@ -38,11 +38,11 @@ Team members
 
 - leetcode : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1), [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1), [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1)
 
-# 2. 문제 풀이를 업로드 한다.
+2. 문제 풀이를 업로드 한다.
 
 - 본인 이름의 폴더 -> 문풀사이트 폴더 -> 문제번호 폴더 생성 -> 풀이 파일 업로드 !!
 
-# 3. (선택) 자신 개인 README.md에 주차별로 푼 문제를 표에 작성한다.
+3. (선택) 자신 개인 README.md에 주차별로 푼 문제를 표에 작성한다.
 
 > 예시
 > ![예시](https://github.com/SoobinJung1013/coding_test_study/blob/main/image/problem_list.png)
