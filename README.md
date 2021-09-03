@@ -44,9 +44,10 @@ Team members
 
 3. (선택) 자신 개인 README.md에 주차별로 푼 문제를 표에 작성한다.
 
-   ![예시](https://github.com/SoobinJung1013/coding_test_study/blob/main/image/problem_list.png)
+> 예시
+> ![예시](https://github.com/SoobinJung1013/coding_test_study/blob/main/image/problem_list.png)
 
-   ![예시](https://github.com/SoobinJung1013/coding_test_study/blob/main/image/problem.png)
+> ![예시](https://github.com/SoobinJung1013/coding_test_study/blob/main/image/problem.png)
 
 4. 금요일 저녁에 팀원들과 함께 자신의 풀이를 공유하고, 더 좋은 풀이 없는지 함께 토론한다 ~ 💓
 
