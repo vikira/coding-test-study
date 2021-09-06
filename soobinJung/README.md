@@ -5,9 +5,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb991013)](https://solved.ac/sb991013)
 
-## Coding Test
+<br/>
 
-### **💻 문제 목록**
+## 💻 Coding Test
+
+### **문제 목록**
 
 <details markdown="1">
 <summary><strong>📄 1주차 </strong></summary>
@@ -39,11 +41,15 @@
 
 </details>
 
+<br/>
+
 ## 🍠 이력서
 
 - [이력서 1](https://docs.google.com/document/d/1GeMrNiccYLxc2HDMjpW1-MZ3sH3bF6Fxwo9eedNINdg/edit)
 
 - [이력서 2](https://docs.google.com/document/d/1vKmC6G9crl9GiUtSkSIVsdaXH-JL5hPI0VKW0INt0hs/edit)
+
+<br/>
 
 ## 🌕 CS-Study
 
